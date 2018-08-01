@@ -17,6 +17,7 @@ def nyc_pigeon_organizer(data)
 pigeon
 end
                     
+<<<<<<< HEAD
                 # (under pigeon[trait] = :color) bird.each do |names|
                 #   if bird.include?(names)
                 #     hash[trait] << bird
@@ -26,3 +27,5 @@ end
 #        end
 #        p hash
 #        end
+=======
+>>>>>>> 6d8c0116b6cf9b767db553df6b59479f2ff51d3e
